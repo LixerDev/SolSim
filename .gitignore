@@ -1,0 +1,37 @@
+# Python
+  __pycache__/
+  *.py[cod]
+  *.pyo
+  *.pyd
+  .Python
+  env/
+  venv/
+  .venv/
+  *.egg-info/
+  dist/
+  build/
+  .eggs/
+
+  # Database
+  *.ddb
+  *.db
+
+  # Settings (contains API keys)
+  settings.yaml
+
+  # Streamlit
+  .streamlit/secrets.toml
+
+  # IDE
+  .vscode/
+  .idea/
+  *.swp
+  *.swo
+
+  # OS
+  .DS_Store
+  Thumbs.db
+
+  # Docker
+  *.log
+  
