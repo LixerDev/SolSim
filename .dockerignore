@@ -1,0 +1,13 @@
+__pycache__
+  *.pyc
+  *.pyo
+  *.pyd
+  *.ddb
+  settings.yaml
+  .git
+  .venv
+  venv
+  env
+  build/
+  dist/
+  
